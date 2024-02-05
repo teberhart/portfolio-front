@@ -1,0 +1,7 @@
+.appBody {
+    display: flex;
+    background-color: dimgrey;
+    width: 95%;
+    margin: 10px auto auto;
+    height: 2000px;
+}
