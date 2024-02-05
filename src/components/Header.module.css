@@ -1,0 +1,26 @@
+.main {
+    width: 100%;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+}
+
+.info {
+    display: flex;
+    width: 100%;
+    background-color: wheat;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px 0;
+}
+
+.navbar {
+    display: flex;
+    width: 100%;
+    background-color: wheat;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px 0;
+}
